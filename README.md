@@ -51,3 +51,15 @@ These two components are responsible for load balancing, authentication, authori
 ![image](https://user-images.githubusercontent.com/89411580/149664526-7354aad7-f11b-426b-a382-3455c9a3ee53.png)
 
 ### 4. What ASP.NET component does in Power BI Service Architecture?
+
+### 5. Compare Microsoft Excel and PowerBi Desktop on the following features:
+### - Data import
+### - Data transformation
+### - Modeling
+### - Reporting
+### - Server Deployment
+### - Convert Models
+### - Cost
+
+
+### 6. List 20 data sources supported by Power Bi desktop.
