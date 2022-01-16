@@ -73,6 +73,7 @@ ASP.NET component plays a major role while publishing reports and dashboards to 
 ### - Convert Models
 ### - Cost
 
+![image](https://user-images.githubusercontent.com/89411580/149671962-5d9764c1-8dc6-4f15-a464-76fda37c7c0c.png)
 
 
 ### 6. List 20 data sources supported by Power Bi desktop.
