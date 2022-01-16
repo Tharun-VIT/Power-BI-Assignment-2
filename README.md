@@ -33,12 +33,12 @@ Power BI uses **Azure Active Directory (AAD)** to authenticate users who sign in
 ### 3. Explain Back End cluster from Power BI Service Architecture?
 
 The Power BI services at the back end take care of 
-- visualizations
-- datasets
-- storage
-- reports
-- data connections
-- data refreshing and other interactions with Power BI. 
+  - visualizations
+  - datasets
+  - storage
+  - reports
+  - data connections
+  - data refreshing and other interactions with Power BI. 
 
 At the back-end, a web client has only two direct points of interaction
 - Azure API Management
