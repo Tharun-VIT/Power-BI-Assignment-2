@@ -47,3 +47,7 @@ At the back-end, a web client has only two direct points of interaction
 The Gateway Role acts as a gateway between user requests and the Power BI service. Users do not interact directly with any roles other than the Gateway Role. Azure API Management will eventually handle the Gateway Role. Azure API Management will eventually handle the Gateway Role.
 
 These two components are responsible for load balancing, authentication, authorization, routing, etc.
+
+![image](https://user-images.githubusercontent.com/89411580/149664526-7354aad7-f11b-426b-a382-3455c9a3ee53.png)
+
+### 4. What ASP.NET component does in Power BI Service Architecture?
