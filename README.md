@@ -63,3 +63,25 @@ These two components are responsible for load balancing, authentication, authori
 
 
 ### 6. List 20 data sources supported by Power Bi desktop.
+
+1) Access database
+2) Oracle Database
+3) IBM Netezza
+4) Mysql Database
+5) Postgre Database
+6) Teradata Database
+7) Amazon Redshift
+8) Impala
+9) Google Bin query
+10) Vertica
+11) Snowflake
+12) Essbake
+13) Azure SQL Database
+14) Sharepoint Online list
+15) Microsoft Exchange online
+16) Dynamics 365(online)
+17) Adobe Analytics
+18) Github(beta)
+19) Linkedin Sales Navigator(Beta)
+20) Twilio(beta)
+
