@@ -9,6 +9,9 @@
 
 for example, we may query **"show total sales country wise"**. Power BI understands the query as we type. When we type "show" it lists all the features available. The respected query results are displayed to user/Business stakeholders.
 
+![image](https://user-images.githubusercontent.com/89411580/149671834-d714b9d1-f431-49c6-88a5-84fa33f96143.png)
+
+
 ### 2. Explain Web Front End(WFE) cluster from Power BI Service Architecture?
 
 Power BI service Architecture contains two clusters.
