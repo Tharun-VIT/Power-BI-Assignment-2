@@ -52,6 +52,15 @@ These two components are responsible for load balancing, authentication, authori
 
 ### 4. What ASP.NET component does in Power BI Service Architecture?
 
+ASP.NET is a web development platform provided by microsoft. 
+- ASP ==> Active Server Page
+- NET ==> Network Enabled Technologies
+
+ASP.NET component plays a major role while publishing reports and dashboards to workspace where stakeholder interact with it in front end provided by Power BI service. Not only that, BI dashboards can also be accessed through other apps like Microsoft teams which embeds BI Applicaiton through ASP.NET framework
+
+![image](https://user-images.githubusercontent.com/89411580/149671695-2baeb635-05c0-4c6a-b96c-3cdf47f53b40.png)
+
+
 ### 5. Compare Microsoft Excel and PowerBi Desktop on the following features:
 ### - Data import
 ### - Data transformation
@@ -60,6 +69,7 @@ These two components are responsible for load balancing, authentication, authori
 ### - Server Deployment
 ### - Convert Models
 ### - Cost
+
 
 
 ### 6. List 20 data sources supported by Power Bi desktop.
